@@ -1,0 +1,23 @@
+.caja3{
+	background-color: #dcdcdc;
+	height: 270px;
+	width: 220px;
+	margin-left: 600px;
+	margin-top: 150px;
+	padding: 80px;	
+	text-align: center;
+	border: 1px solid #222;
+	border-radius: 10px;
+	font-size: 20px;
+	line-height: 1;
+	box-shadow: 0px 0px 15px 5px #000;
+        
+}
+
+body{
+	background-color: #ffffff;
+}
+
+.form{
+	margin-top: -20px
+}

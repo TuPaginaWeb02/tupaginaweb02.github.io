@@ -1,0 +1,583 @@
+/*p{
+		color:red;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: bold;
+		font-style: italic;
+		text-align: justify;
+		text-decoration: line-trough;
+		line-height: 0;
+		letter-spacing: 0px;
+}*/
+
+/*.quote{
+		color:red;
+		font-family: arial;
+		font-size: 12px;
+		font-weight: 300;
+		font-style: italic;
+		text-align: justify;
+		text-decoration: line-trough;
+		line-height: 0;
+		letter-spacing: 0px;
+}*/
+
+h1{
+		text-align: center;	
+		line-height: 1;
+		margin: 0px;
+		margin-top: 0px;
+		color: black;
+
+}
+
+/*.bloque1{
+ 	transition:
+ 	width 0.3s, 
+ 	height 0.3s;
+
+}
+
+.bloque1:hover {
+	width: 700px;
+	height: 700px;
+
+
+}*/
+
+*/ h1{		color:	;
+		font-family: ;
+		font-size: 55px;
+		font-weight: 0;
+		font-style: ;
+		text-align: center;
+		text-decoration: overline;
+		line-height: 3;
+		letter-spacing: 0,5px;
+		padding: 0px;
+		border: 4px solid #222;
+		border-radius: 5px;
+		margin: 10px ;	
+		margin-bottom: -25px;
+		margin-left: 65px;	
+		background-color: aquamarine; 
+			
+}*/
+
+*/ h1::first-letter/selection{		
+				color:	;
+				font-family: ;
+				font-size: 55px;
+				font-weight: 0;
+				font-style: ;
+				text-align: center;
+				text-decoration: overline;
+				line-height: 3;
+				letter-spacing: 0,5px;
+				padding: 0px;
+				border: 4px solid #222;
+				border-radius: 5px;
+				margin: 10px ;	
+				margin-bottom: -25px;
+				margin-left: 65px;	
+				background-color: aquamarine; 
+			
+}*/
+
+
+/*h2{		color:green;
+		font-family: times new roman;
+		font-size: 30px;
+		font-weight: bold;
+		font-style: italic;
+		text-align: justify;
+		text-decoration: overline;
+		line-height: 2;
+		letter-spacing: 50px;*/
+
+}
+
+/*li{		color:yellow;
+		font-family: arial;
+		font-size: 77px;
+		font-weight: bold;
+		font-style: italic;
+		text-align: justify;
+		text-decoration: overline;
+		line-height: 0.5;
+		letter-spacing: 0px;
+
+} */
+
+div{
+	/*margin: 10px;*/
+	/*box-sizing: border-box;*/
+	background-color: rgb(255, 255, 224);
+	padding: ;
+	border-radius: 0%;
+	margin: 20px;
+        margin-bottom: 20px;
+		
+	
+	
+		
+}
+.caja{
+	background-color: #f5f5f1;
+	background-attachment: fixed;
+	box-shadow: 0px 0px 0px 0px #000;
+}
+
+.caja1{
+	height: 100px;
+	width: 1237px;
+	padding: 10px;
+	
+	
+
+}
+
+.caja2{
+	height: 425px;
+	width: 284px;
+	margin-top: -990px;
+	margin-left: 973px;
+	padding: 10px;
+	font-family: ;
+	font-weight: bold;
+	
+}
+
+
+
+.caja3{
+	height: 950px;
+	width: 927px;
+	margin-left: 20px;
+	margin-top: -15px;
+	padding: 10px;	
+	
+        
+}
+
+.caja4{
+	background-color: #e3e4e5;
+	position: fixed;
+	height: 30px;
+	width: 0px;
+	padding: 10px;
+	marign-bottom: 10px;
+	margin: 0px;
+	margin-top: -10px;
+	margin-left: -10px;
+	
+
+}	
+	
+	
+.caja5{
+	background-image: url("");
+	height: 425px;
+	width: 1295px;
+	margin: 0px;
+	margin-top: -18px;
+	margin-left: -10px;
+}
+
+.caja6{
+	
+	background-color: rgb(0, 0, 0);
+        transition: background-color 0.2s;
+	position: fixed;
+	height: 1095px;
+	width: 280px;
+	padding: 10px;
+	marign-bottom: 10px;
+	margin: 0px;
+	margin-top: -10px;		
+	margin-left: -10px;
+}
+
+.caja8{
+
+	
+	margin-left: 420px;
+	background-color: #fff;
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+
+	
+}
+
+.caja9{
+
+	
+	margin-left: 540px;
+	margin-top: -100px;
+	background-color: #fff;
+	height: 100px;
+	width: 150px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+
+	
+}
+
+.caja10{
+	
+	
+	margin-left: 700px;
+	margin-top: -100px;
+	background-color: #fff;
+	height: 100px;
+	width: 110px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 2;
+	letter-spacing: 0,5px;
+
+	
+}
+
+.caja11{
+	
+	
+	margin-left: 830px;
+	margin-top: -100px;
+	background-color: #fff;
+	height: 100px;
+	width: 120px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+
+	
+}
+
+.caja12{
+
+	
+	margin-left: 960px;
+	margin-top: -100px;
+	background-color: #fff;
+	height: 100px;
+	width: 130px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+
+	
+}
+
+.caja13{
+
+	
+	margin-left: 1060px;
+	margin-top: -100px;
+	background-color: #fff;
+	height: 100px;
+	width: 160px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+
+	
+}
+
+.caja14{
+
+	
+	margin-left: 1190px;
+	margin-top: -100px;
+	background-color: #fff;
+	height: 100px;
+	width: 150px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+
+	
+}
+
+.caja15{
+
+	
+	margin-left: 1340px;
+	margin-top: -100px;
+	background-color: #fff;
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+
+	
+}
+
+.caja16{
+
+	margin-left: 60px;
+	background-color: transparent;
+	margin-top: 140px;
+	color: #fff;
+	height: 100px;
+	width: 100px;
+	font-size: 34px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+	font-family: helvetica;
+
+	
+}
+
+.box1{
+	margin-left: 100px;
+	background-color: transparent;
+	margin-top: -10px;
+	color: #fff;
+	height: 100px;
+	width: 100px;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+	font-family: helvetica;
+
+	
+}
+
+.box2{
+	margin-left: 98px;
+	background-color: transparent;
+	margin-top: -45px;
+	color: #fff;
+	height: 100px;
+	width: 100px;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+	font-family: helvetica;
+
+	
+}
+
+.box3{
+	margin-left: 92px;
+	background-color: transparent;
+	margin-top: -45px;
+	color: #fff;
+	height: 100px;
+	width: 100px;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+	font-family: helvetica;
+
+	
+}
+
+.box4{
+	margin-left: -5px;
+	background-color: transparent;
+	margin-top: -368px;
+	color: #fff;
+	height: 100px;
+	width: 100px;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 4;
+	letter-spacing: 0,5px;
+	font-family: helvetica;
+
+	
+}
+
+
+a{
+	color: black;
+	text-decoration: none;
+	font-family: helvetica;
+	
+}
+
+.a{
+	color: white;
+	text-decoration: underline;
+	font-family: helvetica;
+	
+	
+}
+
+.bloque1{
+	
+	background-image: url("https://www.autopista.es/wp-content/uploads/2019/09/bugattichironsupersport300202102.jpg");
+	background-image: fixed;
+	height: 500px;
+	width: 480px;
+	padding: 10px;
+	marign-bottom: 10px;
+	margin: 0px;
+	margin-top: -40px;		
+	margin-left: 290px;
+}
+
+.bloque2{
+	
+	background-image: url("https://scene7.toyota.eu/is/image/toyotaeurope/MY25+LS+EU+01-1:Small-Portrait?ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0");
+	background-image: fixed;
+	height: 500px;
+	width: 706px;
+	padding: 10px;
+	marign-bottom: 10px;
+	margin: 0px;
+	margin-top: -520px;		
+	margin-left: 793px;
+}
+
+.bloque3{
+	
+	/*background-image: url("https://files.hodoor.world/main/10d0a54d-c179-4f96-a312-51b7c4757ac6.jpg");*/
+	background-image: fixed;
+	height: 1300px;
+	width: 1209px;
+	padding: 10px;
+	marign-bottom: 10px;
+	margin: 0px;
+	margin-top: 2px;		
+	margin-left: 290px;
+}
+
+
+
+.bloque4{
+	
+	background-image: url("https://files.hodoor.world/main/10d0a54d-c179-4f96-a312-51b7c4757ac6.jpg");
+	background-image: fixed;
+	height: 300px;
+	width: 1209px;
+	padding: 10px;
+	marign-bottom: 10px;
+	margin: 0px;
+	margin-top: 2px;		
+	margin-left: 290px;
+}
+
+
+
+/*.caja7{
+	background-color: #fff;
+	color: #fff;
+	position: fixed;
+	height: 500px;
+	width: 110px;
+	padding: 10px;
+	marign-bottom: 10px;
+	margin: 0px;
+	margin-top: 117px;
+	margin-left: 30px;*/
+
+	
+}
+
+
+/*.vww{
+	width: 300px;
+	height: 300px; 
+	margin-left: 270px;
+	margin-top: 20px;
+}
+
+.ste{
+	width: 300px;
+	height: 300px; 
+	margin-left: -10px;
+	margin-top: -360px;
+	
+}
+
+.gm{
+	width: 300px;
+	height: 300px; 
+	margin-left: 850px;
+	margin-top: -400px;
+	
+}
+
+.rg{
+	width: 300px;
+	height: 300px; 
+	margin-left: 1200px;
+	margin-top: -300px;
+	
+}
+
+.bmw{
+	width: 300px;
+	height: 300px; 
+	margin-left: 270px;
+	margin-top: 0px;
+}
+
+.nis{
+	width: 300px;
+	height: 300px; 
+	margin-left: -15px;
+	margin-top: 0px;
+}
+
+.toy{
+	width: 300px;
+	height: 300px; 
+	margin-left: 850px;
+	margin-top: -300px;
+	
+}
+
+.mer{
+	width: 280px;
+	height: 260px; 
+	margin-left: 1200px;
+	margin-top: -360px;
+	
+}
+
+
+.video1{
+	height: 370px;
+	width: 1295px;
+	margin-top: 60px;
+	margin-left: 2px;
+}*/
+
+
+	
+
+
+body{
+	/*background-image: url("https://images.clarin.com/2015/11/25/BybmADl4g_1256x620.jpg");*/
+	/*background-attachment: fixed;*/
+	width: 1200px;
+	height: 1300px;
+	margin: 0px;
+	background-color: #fff;
+}
+
