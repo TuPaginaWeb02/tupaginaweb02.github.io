@@ -455,9 +455,9 @@ a{
 
 .bloque3{
 	
-	/*background-image: url("https://files.hodoor.world/main/10d0a54d-c179-4f96-a312-51b7c4757ac6.jpg");*/
+	background-image: url("https://files.hodoor.world/main/10d0a54d-c179-4f96-a312-51b7c4757ac6.jpg");
 	background-image: fixed;
-	height: 1300px;
+	height: 300px;
 	width: 1209px;
 	padding: 10px;
 	marign-bottom: 10px;
